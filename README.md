@@ -5,9 +5,8 @@ Modelo de documento corporativo e relatório técnico de auditoria desenvolvido 
 ---
 
 ## 🖼️ Prévia do Documento
+![Prévia do Modelo Word](Captura%20de%20tela%202026-10-28%20190420.png)
 
-![Prévia do Modelo Word](Captura de tela 2026-10-28 190420.png)
-*(Nota: Substitua o nome do arquivo da imagem acima pela captura de tela da capa do seu documento)*
 
 ---
 
